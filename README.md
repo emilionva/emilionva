@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Estudiante de Computación en la UAM, apasionado por el desarrollo de software y la computación en todas sus ramas. Me considero adaptable y listo para enfrentar cualquier reto tecnológico, con habilidades en diversas áreas de la programación y desarrollo.</p>
-
-###
-
 <h2 align="left">Sobre mí</h2>
 
 ###
